@@ -1,5 +1,5 @@
 # Haskell
-<p>Exercises from the "Haskell: The Craft of Functional Programming 3rd Ed" book.<br/>
+<p>Exercises from the "Haskell: The Craft of Functional Programming, 3rd Ed" book.<br/>
 It also contains property-based testing (using QuickCheck) and correctness proofs.</p>
 <ul>
 <li>Chapter 3 - "Basic types and definitions"</li>
